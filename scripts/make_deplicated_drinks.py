@@ -11,5 +11,5 @@ for row in drinks.iterrows():
             new_df_list.append(list(row[1]))
     else:
         new_df_list.append(list(row[1]))
-new_df = pd.DataFrame(new_df_list, columns=drinks.columns).sample(frac=1).reset_index()
-new_df.to_csv('../data/drinks_duplicated.csv')
+new_df = pd.DataFrame(new_df_list, columns=drinks.columns).sample(frac=1).reset_index(drop=True)
+new_df.to_csv('../data/drinks_duplicated.csv', index=False)
