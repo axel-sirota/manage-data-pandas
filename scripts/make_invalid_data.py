@@ -26,5 +26,5 @@ for row_index in range(number_of_rows):
     measurement = {"sensor": sensor, "date": date, "measurement": value}
     dataset.append(measurement)
 df = pd.DataFrame(dataset)
-df.to_csv('../data/drinks_invalid.csv', index=False)
+df.to_csv('../data/measurements_invalid.csv', index=False)
 
