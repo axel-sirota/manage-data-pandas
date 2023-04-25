@@ -12,7 +12,7 @@ sensor_ranges = {
     "light": [0, 6000],
     "humidity": [0, 100]
 }
-errors = [f"E{i}" for i in range(10)] + [np.nan, "&^%$", "Test"]
+errors = [f"E{i}" for i in range(10)] + ["-10", "Test"]
 dataset = []
 
 for row_index in range(number_of_rows):
