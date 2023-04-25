@@ -1,330 +1,340 @@
 country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,continent
-Malta,149,100,120,6.6,EU
-Slovakia,196,293,116,11.4,EU
-Brunei,31,2,1,0.6,AS
-Cameroon,147,1,4,5.8,AF
-Bahamas,122,176,51,6.3,
-Venezuela,333,100,3,7.7,SA
-Malta,149,100,120,6.6,EU
-Uruguay,115,35,220,6.6,SA
-Tuvalu,6,41,9,1.0,OC
-Cambodia,57,65,1,2.2,AS
-Seychelles,157,25,51,4.1,AF
-Russian Federation,247,326,73,11.5,AS
-Lithuania,343,244,56,12.9,EU
-Macedonia,106,27,86,3.9,EU
-Equatorial Guinea,92,0,233,5.8,AF
-Croatia,230,87,254,10.2,EU
-Togo,36,2,19,1.3,AF
-Germany,346,117,175,11.3,EU
-Guatemala,53,69,2,2.2,
-Antigua & Barbuda,102,128,45,4.9,
-Italy,85,42,237,6.5,EU
-Afghanistan,0,0,0,0.0,AS
-Algeria,25,0,14,0.7,AF
-Nigeria,42,5,2,9.1,AF
-El Salvador,52,69,2,2.2,
-Jordan,6,21,1,0.5,AS
-Lebanon,20,55,31,1.9,AS
-Guinea,9,0,2,0.2,AF
-Singapore,60,12,11,1.5,AS
-Iceland,233,61,78,6.6,EU
-Belize,263,114,8,6.8,
-Bosnia-Herzegovina,76,173,8,4.6,EU
-Thailand,99,258,1,6.4,AS
-Czech Republic,361,170,134,11.8,EU
-Senegal,9,1,7,0.3,AF
-Benin,34,4,13,1.1,AF
-Spain,284,157,112,10.0,EU
-Finland,263,133,97,10.0,EU
-Kiribati,21,34,1,1.0,OC
-Finland,263,133,97,10.0,EU
-Sierra Leone,25,3,2,6.7,AF
-Niger,3,2,1,0.1,AF
-Tonga,36,21,5,1.1,OC
-Angola,217,57,45,5.9,AF
-Indonesia,5,1,0,0.1,AS
-Vietnam,111,2,1,2.0,AS
-Uruguay,115,35,220,6.6,SA
-Sri Lanka,16,104,0,2.2,AS
-Venezuela,333,100,3,7.7,SA
-Lesotho,82,29,0,2.8,AF
-Sri Lanka,16,104,0,2.2,AS
-Peru,163,160,21,6.1,SA
-Ghana,31,3,10,1.8,AF
-Vanuatu,21,18,11,0.9,OC
-Panama,285,104,18,7.2,
-Rwanda,43,2,0,6.8,AF
-St. Vincent & the Grenadines,120,221,11,6.3,
-Croatia,230,87,254,10.2,EU
-Vanuatu,21,18,11,0.9,OC
-New Zealand,203,79,175,9.3,OC
-Andorra,245,138,312,12.4,EU
-Marshall Islands,0,0,0,0.0,OC
-Bangladesh,0,0,0,0.0,AS
-Kuwait,0,0,0,0.0,AS
-Australia,261,72,212,10.4,OC
-Latvia,281,216,62,10.5,EU
-Albania,89,132,54,4.9,EU
-Venezuela,333,100,3,7.7,SA
-Liberia,19,152,2,3.1,AF
-St. Kitts & Nevis,194,205,32,7.7,
-Turkmenistan,19,71,32,2.2,AS
-Afghanistan,0,0,0,0.0,AS
-Mongolia,77,189,8,4.9,AS
-Lithuania,343,244,56,12.9,EU
-Fiji,77,35,1,2.0,OC
-Brazil,245,145,16,7.2,SA
-Angola,217,57,45,5.9,AF
-Kyrgyzstan,31,97,6,2.4,AS
-Cambodia,57,65,1,2.2,AS
-Cuba,93,137,5,4.2,
-Moldova,109,226,18,6.3,EU
-Dominica,52,286,26,6.6,
-Rwanda,43,2,0,6.8,AF
-Netherlands,251,88,190,9.4,EU
-Micronesia,62,50,18,2.3,OC
-Argentina,193,25,221,8.3,SA
-Madagascar,26,15,4,0.8,AF
-El Salvador,52,69,2,2.2,
-St. Kitts & Nevis,194,205,32,7.7,
-Maldives,0,0,0,0.0,AS
-Ethiopia,20,3,0,0.7,AF
-Indonesia,5,1,0,0.1,AS
-Dominica,52,286,26,6.6,
-United Arab Emirates,16,135,5,2.8,AS
-Botswana,173,35,35,5.4,AF
-Brazil,245,145,16,7.2,SA
-Libya,0,0,0,0.0,AF
-Indonesia,5,1,0,0.1,AS
-Poland,343,215,56,10.9,EU
-China,79,192,8,5.0,AS
-Namibia,376,3,1,6.8,AF
-Trinidad & Tobago,197,156,7,6.4,
-Lesotho,82,29,0,2.8,AF
-Indonesia,5,1,0,0.1,AS
-Nepal,5,6,0,0.2,AS
-Gambia,8,0,1,2.4,AF
-Azerbaijan,21,46,5,1.3,EU
-Peru,163,160,21,6.1,SA
-Sao Tome & Principe,56,38,140,4.2,AF
-Portugal,194,67,339,11.0,EU
-Solomon Islands,56,11,1,1.2,OC
-Sri Lanka,16,104,0,2.2,AS
-Lithuania,343,244,56,12.9,EU
-Austria,279,75,191,9.7,EU
-Kenya,58,22,2,1.8,AF
-San Marino,0,0,0,0.0,EU
-Greece,133,112,218,8.3,EU
-Liberia,19,152,2,3.1,AF
-Indonesia,5,1,0,0.1,AS
-Barbados,143,173,36,6.3,
-El Salvador,52,69,2,2.2,
-Croatia,230,87,254,10.2,EU
-El Salvador,52,69,2,2.2,
-Belarus,142,373,42,14.4,EU
-Estonia,224,194,59,9.5,EU
-Israel,63,69,9,2.5,AS
-South Korea,140,16,9,9.8,AS
-Maldives,0,0,0,0.0,AS
-Zambia,32,19,4,2.5,AF
-Liberia,19,152,2,3.1,AF
-Zimbabwe,64,18,4,4.7,AF
-Palau,306,63,23,6.9,OC
-Guinea-Bissau,28,31,21,2.5,AF
-Egypt,6,4,1,0.2,AF
-Guatemala,53,69,2,2.2,
-Tajikistan,2,15,0,0.3,AS
-Singapore,60,12,11,1.5,AS
-Singapore,60,12,11,1.5,AS
+Uganda,45,9,0,8.3,AF
 Iraq,9,3,0,0.2,AS
-Vietnam,111,2,1,2.0,AS
+Macedonia,106,27,86,3.9,EU
+Venezuela,333,100,3,7.7,SA
+Bangladesh,0,0,0,0.0,AS
+Bahrain,42,63,7,2.0,AS
+Nicaragua,78,118,1,3.5,
+Niue,188,200,7,7.0,OC
 Croatia,230,87,254,10.2,EU
-Brunei,31,2,1,0.6,AS
-Bulgaria,231,252,94,10.3,EU
-Saudi Arabia,0,5,0,0.1,AS
-Eritrea,18,0,0,0.5,AF
-Angola,217,57,45,5.9,AF
-Germany,346,117,175,11.3,EU
-Burkina Faso,25,7,7,4.3,AF
-Afghanistan,0,0,0,0.0,AS
-Myanmar,5,1,0,0.1,AS
+Czech Republic,361,170,134,11.8,EU
+Bahamas,122,176,51,6.3,
 Libya,0,0,0,0.0,AF
-Spain,284,157,112,10.0,EU
-Venezuela,333,100,3,7.7,SA
-Solomon Islands,56,11,1,1.2,OC
-Cyprus,192,154,113,8.2,EU
-Nauru,49,0,8,1.0,OC
-Georgia,52,100,149,5.4,EU
-United Kingdom,219,126,195,10.4,EU
-Ecuador,162,74,3,4.2,SA
-Hungary,234,215,185,11.3,EU
-Gabon,347,98,59,8.9,AF
-Guatemala,53,69,2,2.2,
-El Salvador,52,69,2,2.2,
-Serbia,283,131,127,9.6,EU
-Antigua & Barbuda,102,128,45,4.9,
-Gabon,347,98,59,8.9,AF
-Slovenia,270,51,276,10.6,EU
-Cuba,93,137,5,4.2,
-Georgia,52,100,149,5.4,EU
-Iran,0,0,0,0.0,AS
-Georgia,52,100,149,5.4,EU
-Burundi,88,0,0,6.3,AF
-Belarus,142,373,42,14.4,EU
-Kazakhstan,124,246,12,6.8,AS
-Gambia,8,0,1,2.4,AF
-Spain,284,157,112,10.0,EU
-Cote d'Ivoire,37,1,7,4.0,AF
-DR Congo,32,3,1,2.3,AF
-Equatorial Guinea,92,0,233,5.8,AF
 Vanuatu,21,18,11,0.9,OC
-Uzbekistan,25,101,8,2.4,AS
-Cuba,93,137,5,4.2,
-Tuvalu,6,41,9,1.0,OC
 France,127,151,370,11.8,EU
-United Arab Emirates,16,135,5,2.8,AS
-Kazakhstan,124,246,12,6.8,AS
-Papua New Guinea,44,39,1,1.5,OC
-Lithuania,343,244,56,12.9,EU
-Germany,346,117,175,11.3,EU
-Norway,169,71,129,6.7,EU
-Somalia,0,0,0,0.0,AF
-Cambodia,57,65,1,2.2,AS
-Chad,15,1,1,0.4,AF
-Guyana,93,302,1,7.1,SA
-North Korea,0,0,0,0.0,AS
-Mauritania,0,0,0,0.0,AF
-Sweden,152,60,186,7.2,EU
-St. Kitts & Nevis,194,205,32,7.7,
-Vanuatu,21,18,11,0.9,OC
-Nauru,49,0,8,1.0,OC
-Brazil,245,145,16,7.2,SA
-Guinea,9,0,2,0.2,AF
-Azerbaijan,21,46,5,1.3,EU
-Suriname,128,178,7,5.6,SA
-Lesotho,82,29,0,2.8,AF
-Dominican Republic,193,147,9,6.2,
-Iran,0,0,0,0.0,AS
-Nauru,49,0,8,1.0,OC
-Montenegro,31,114,128,4.9,EU
+Georgia,52,100,149,5.4,EU
 Qatar,1,42,7,0.9,AS
-Australia,261,72,212,10.4,OC
-Belarus,142,373,42,14.4,EU
-Equatorial Guinea,92,0,233,5.8,AF
-Central African Republic,17,2,1,1.8,AF
-Colombia,159,76,3,4.2,SA
+Brunei,31,2,1,0.6,AS
+Suriname,128,178,7,5.6,SA
+Monaco,0,0,0,0.0,EU
 Cabo Verde,144,56,16,4.0,AF
-North Korea,0,0,0,0.0,AS
-Vietnam,111,2,1,2.0,AS
-Peru,163,160,21,6.1,SA
-Oman,22,16,1,0.7,AS
-Liberia,19,152,2,3.1,AF
-Vietnam,111,2,1,2.0,AS
+Maldives,0,0,0,0.0,AS
+Thailand,99,258,1,6.4,AS
+New Zealand,203,79,175,9.3,OC
+United Kingdom,219,126,195,10.4,EU
 Equatorial Guinea,92,0,233,5.8,AF
-Vietnam,111,2,1,2.0,AS
-Rwanda,43,2,0,6.8,AF
+Ireland,313,118,165,11.4,EU
+Togo,36,2,19,1.3,AF
+Marshall Islands,0,0,0,0.0,OC
+Burkina Faso,25,7,7,4.3,AF
+Suriname,128,178,7,5.6,SA
+Guinea,9,0,2,0.2,AF
+St. Kitts & Nevis,194,205,32,7.7,
+Iran,0,0,0,0.0,AS
+Comoros,1,3,1,0.1,AF
+France,127,151,370,11.8,EU
+Tanzania,36,6,1,5.7,AF
+Afghanistan,0,0,0,0.0,AS
+Bhutan,23,0,0,0.4,AS
+St. Kitts & Nevis,194,205,32,7.7,
+Maldives,0,0,0,0.0,AS
+Oman,22,16,1,0.7,AS
+Mauritius,98,31,18,2.6,AF
+Myanmar,5,1,0,0.1,AS
+Namibia,376,3,1,6.8,AF
+Pakistan,0,0,0,0.0,AS
+Jamaica,82,97,9,3.4,
+Thailand,99,258,1,6.4,AS
+Tajikistan,2,15,0,0.3,AS
+France,127,151,370,11.8,EU
+Guinea-Bissau,28,31,21,2.5,AF
+Bosnia-Herzegovina,76,173,8,4.6,EU
+Togo,36,2,19,1.3,AF
+Spain,284,157,112,10.0,EU
+China,79,192,8,5.0,AS
+Timor-Leste,1,1,4,0.1,AS
+Palau,306,63,23,6.9,OC
+Morocco,12,6,10,0.5,AF
+North Korea,0,0,0,0.0,AS
+Lithuania,343,244,56,12.9,EU
+DR Congo,32,3,1,2.3,AF
+Turkmenistan,19,71,32,2.2,AS
+Belgium,295,84,212,10.5,EU
+United Kingdom,219,126,195,10.4,EU
+Barbados,143,173,36,6.3,
+St. Vincent & the Grenadines,120,221,11,6.3,
+Greece,133,112,218,8.3,EU
+Comoros,1,3,1,0.1,AF
+Kenya,58,22,2,1.8,AF
+DR Congo,32,3,1,2.3,AF
+Iraq,9,3,0,0.2,AS
+Russian Federation,247,326,73,11.5,AS
+Ghana,31,3,10,1.8,AF
+USA,249,158,84,8.7,
+Jamaica,82,97,9,3.4,
+Bangladesh,0,0,0,0.0,AS
+Pakistan,0,0,0,0.0,AS
 Ukraine,206,237,45,8.9,EU
-Libya,0,0,0,0.0,AF
-Venezuela,333,100,3,7.7,SA
-Mozambique,47,18,5,1.3,AF
+Trinidad & Tobago,197,156,7,6.4,
+Antigua & Barbuda,102,128,45,4.9,
+Uzbekistan,25,101,8,2.4,AS
+Suriname,128,178,7,5.6,SA
+Tajikistan,2,15,0,0.3,AS
+Seychelles,157,25,51,4.1,AF
+China,79,192,8,5.0,AS
+Israel,63,69,9,2.5,AS
+Zambia,32,19,4,2.5,AF
+Uganda,45,9,0,8.3,AF
+Argentina,193,25,221,8.3,SA
+Djibouti,15,44,3,1.1,AF
+Tanzania,36,6,1,5.7,AF
+Brazil,245,145,16,7.2,SA
+Sudan,8,13,0,1.7,AF
+Comoros,1,3,1,0.1,AF
+Spain,284,157,112,10.0,EU
+Ghana,31,3,10,1.8,AF
+Malawi,8,11,1,1.5,AF
+Belarus,142,373,42,14.4,EU
+Denmark,224,81,278,10.4,EU
+Myanmar,5,1,0,0.1,AS
+Tanzania,36,6,1,5.7,AF
+San Marino,0,0,0,0.0,EU
+Vietnam,111,2,1,2.0,AS
+Armenia,21,179,11,3.8,EU
+Spain,284,157,112,10.0,EU
+Maldives,0,0,0,0.0,AS
+Belgium,295,84,212,10.5,EU
+Syria,5,35,16,1.0,AS
+Malawi,8,11,1,1.5,AF
+Micronesia,62,50,18,2.3,OC
+Bulgaria,231,252,94,10.3,EU
+Trinidad & Tobago,197,156,7,6.4,
+St. Lucia,171,315,71,10.1,
+Cote d'Ivoire,37,1,7,4.0,AF
+Senegal,9,1,7,0.3,AF
+Cameroon,147,1,4,5.8,AF
+Rwanda,43,2,0,6.8,AF
+Italy,85,42,237,6.5,EU
+Yemen,6,0,0,0.1,AS
+Tanzania,36,6,1,5.7,AF
+Kuwait,0,0,0,0.0,AS
+Guatemala,53,69,2,2.2,
+Guinea-Bissau,28,31,21,2.5,AF
+Afghanistan,0,0,0,0.0,AS
+Guinea-Bissau,28,31,21,2.5,AF
+Afghanistan,0,0,0,0.0,AS
+Cameroon,147,1,4,5.8,AF
+Mali,5,1,1,0.6,AF
+Vietnam,111,2,1,2.0,AS
+Antigua & Barbuda,102,128,45,4.9,
+Indonesia,5,1,0,0.1,AS
+Trinidad & Tobago,197,156,7,6.4,
+Niger,3,2,1,0.1,AF
+Israel,63,69,9,2.5,AS
+Eritrea,18,0,0,0.5,AF
+Myanmar,5,1,0,0.1,AS
+Philippines,71,186,1,4.6,AS
+Albania,89,132,54,4.9,EU
+Dominican Republic,193,147,9,6.2,
+Antigua & Barbuda,102,128,45,4.9,
+Afghanistan,0,0,0,0.0,AS
+Belgium,295,84,212,10.5,EU
+Angola,217,57,45,5.9,AF
+Tuvalu,6,41,9,1.0,OC
+Ecuador,162,74,3,4.2,SA
+Pakistan,0,0,0,0.0,AS
+Portugal,194,67,339,11.0,EU
 Honduras,69,98,2,3.0,
-Liberia,19,152,2,3.1,AF
+Togo,36,2,19,1.3,AF
+Slovenia,270,51,276,10.6,EU
+Ireland,313,118,165,11.4,EU
+Bahamas,122,176,51,6.3,
+Mali,5,1,1,0.6,AF
+Albania,89,132,54,4.9,EU
+Canada,240,122,100,8.2,
+Mali,5,1,1,0.6,AF
+Ethiopia,20,3,0,0.7,AF
+Moldova,109,226,18,6.3,EU
+Nigeria,42,5,2,9.1,AF
+Iceland,233,61,78,6.6,EU
+Bahrain,42,63,7,2.0,AS
+Kenya,58,22,2,1.8,AF
+Niger,3,2,1,0.1,AF
+DR Congo,32,3,1,2.3,AF
+Saudi Arabia,0,5,0,0.1,AS
+Colombia,159,76,3,4.2,SA
+Lesotho,82,29,0,2.8,AF
+Israel,63,69,9,2.5,AS
+Bangladesh,0,0,0,0.0,AS
+Sao Tome & Principe,56,38,140,4.2,AF
+Egypt,6,4,1,0.2,AF
+Spain,284,157,112,10.0,EU
+Philippines,71,186,1,4.6,AS
+Guinea,9,0,2,0.2,AF
+Nicaragua,78,118,1,3.5,
+Finland,263,133,97,10.0,EU
+Panama,285,104,18,7.2,
+India,9,114,0,2.2,AS
+Malawi,8,11,1,1.5,AF
+Spain,284,157,112,10.0,EU
+Dominica,52,286,26,6.6,
+Philippines,71,186,1,4.6,AS
+Latvia,281,216,62,10.5,EU
+Mauritania,0,0,0,0.0,AF
+Sudan,8,13,0,1.7,AF
+Jamaica,82,97,9,3.4,
+Mozambique,47,18,5,1.3,AF
+Paraguay,213,117,74,7.3,SA
+St. Vincent & the Grenadines,120,221,11,6.3,
+Iraq,9,3,0,0.2,AS
+Azerbaijan,21,46,5,1.3,EU
+Japan,77,202,16,7.0,AS
+Fiji,77,35,1,2.0,OC
+Nepal,5,6,0,0.2,AS
+El Salvador,52,69,2,2.2,
+Kazakhstan,124,246,12,6.8,AS
+Iran,0,0,0,0.0,AS
+Bahrain,42,63,7,2.0,AS
+Kiribati,21,34,1,1.0,OC
+Kyrgyzstan,31,97,6,2.4,AS
+Tajikistan,2,15,0,0.3,AS
+Ghana,31,3,10,1.8,AF
+Mali,5,1,1,0.6,AF
+Cuba,93,137,5,4.2,
 Tunisia,51,3,20,1.3,AF
 Mongolia,77,189,8,4.9,AS
-Swaziland,90,2,2,4.7,AF
-Mongolia,77,189,8,4.9,AS
-Belarus,142,373,42,14.4,EU
+Canada,240,122,100,8.2,
+Slovenia,270,51,276,10.6,EU
+Niger,3,2,1,0.1,AF
+South Africa,225,76,81,8.2,AF
+Malaysia,13,4,0,0.3,AS
+Pakistan,0,0,0,0.0,AS
 Comoros,1,3,1,0.1,AF
 Antigua & Barbuda,102,128,45,4.9,
-Mali,5,1,1,0.6,AF
-Armenia,21,179,11,3.8,EU
-Chile,130,124,172,7.6,SA
-Yemen,6,0,0,0.1,AS
-Nauru,49,0,8,1.0,OC
-Haiti,1,326,1,5.9,
-North Korea,0,0,0,0.0,AS
 Grenada,199,438,28,11.9,
-Congo,76,1,9,1.7,AF
-Cuba,93,137,5,4.2,
-Mongolia,77,189,8,4.9,AS
-Uruguay,115,35,220,6.6,SA
-Samoa,105,18,24,2.6,OC
-Poland,343,215,56,10.9,EU
-Ireland,313,118,165,11.4,EU
-Australia,261,72,212,10.4,OC
-Jamaica,82,97,9,3.4,
-Kuwait,0,0,0,0.0,AS
-Djibouti,15,44,3,1.1,AF
-Philippines,71,186,1,4.6,AS
-Poland,343,215,56,10.9,EU
-Timor-Leste,1,1,4,0.1,AS
-Japan,77,202,16,7.0,AS
-Georgia,52,100,149,5.4,EU
-Canada,240,122,100,8.2,
-Niue,188,200,7,7.0,OC
-St. Lucia,171,315,71,10.1,
-Sudan,8,13,0,1.7,AF
-Nicaragua,78,118,1,3.5,
-Belarus,142,373,42,14.4,EU
-Bhutan,23,0,0,0.4,AS
-Laos,62,0,123,6.2,AS
-Vanuatu,21,18,11,0.9,OC
-Romania,297,122,167,10.4,EU
-Afghanistan,0,0,0,0.0,AS
-Mongolia,77,189,8,4.9,AS
-United Arab Emirates,16,135,5,2.8,AS
-Poland,343,215,56,10.9,EU
-Finland,263,133,97,10.0,EU
-Cambodia,57,65,1,2.2,AS
-Tonga,36,21,5,1.1,OC
-Brunei,31,2,1,0.6,AS
-India,9,114,0,2.2,AS
-Malta,149,100,120,6.6,EU
-Mauritius,98,31,18,2.6,AF
-Iraq,9,3,0,0.2,AS
-Monaco,0,0,0,0.0,EU
-Bahrain,42,63,7,2.0,AS
-Tanzania,36,6,1,5.7,AF
-South Africa,225,76,81,8.2,AF
-Turkey,51,22,7,1.4,AS
-Tonga,36,21,5,1.1,OC
+France,127,151,370,11.8,EU
+Liberia,19,152,2,3.1,AF
 Gabon,347,98,59,8.9,AF
-Qatar,1,42,7,0.9,AS
-Uganda,45,9,0,8.3,AF
-Switzerland,185,100,280,10.2,EU
-Angola,217,57,45,5.9,AF
-Croatia,230,87,254,10.2,EU
-Costa Rica,149,87,11,4.4,
-Paraguay,213,117,74,7.3,SA
-Luxembourg,236,133,271,11.4,EU
-USA,249,158,84,8.7,
-Brunei,31,2,1,0.6,AS
-Maldives,0,0,0,0.0,AS
-Malaysia,13,4,0,0.3,AS
-Cambodia,57,65,1,2.2,AS
-Libya,0,0,0,0.0,AF
-Cuba,93,137,5,4.2,
-Iraq,9,3,0,0.2,AS
-Belgium,295,84,212,10.5,EU
-Maldives,0,0,0,0.0,AS
-Lithuania,343,244,56,12.9,EU
-Pakistan,0,0,0,0.0,AS
-Tunisia,51,3,20,1.3,AF
-Cook Islands,0,254,74,5.9,OC
-Burundi,88,0,0,6.3,AF
-Brazil,245,145,16,7.2,SA
-Syria,5,35,16,1.0,AS
-Guinea,9,0,2,0.2,AF
-Kuwait,0,0,0,0.0,AS
-Marshall Islands,0,0,0,0.0,OC
-Morocco,12,6,10,0.5,AF
-Australia,261,72,212,10.4,OC
-Malta,149,100,120,6.6,EU
+Jordan,6,21,1,0.5,AS
 Nauru,49,0,8,1.0,OC
+Cambodia,57,65,1,2.2,AS
+Canada,240,122,100,8.2,
+Norway,169,71,129,6.7,EU
+Haiti,1,326,1,5.9,
+Algeria,25,0,14,0.7,AF
+Montenegro,31,114,128,4.9,EU
+DR Congo,32,3,1,2.3,AF
+Chile,130,124,172,7.6,SA
+Botswana,173,35,35,5.4,AF
+Nicaragua,78,118,1,3.5,
+Myanmar,5,1,0,0.1,AS
+United Arab Emirates,16,135,5,2.8,AS
+Canada,240,122,100,8.2,
+Tanzania,36,6,1,5.7,AF
+Togo,36,2,19,1.3,AF
+Philippines,71,186,1,4.6,AS
+Cyprus,192,154,113,8.2,EU
+Slovenia,270,51,276,10.6,EU
+Poland,343,215,56,10.9,EU
+Peru,163,160,21,6.1,SA
+Jamaica,82,97,9,3.4,
+Brunei,31,2,1,0.6,AS
+New Zealand,203,79,175,9.3,OC
+Myanmar,5,1,0,0.1,AS
+Congo,76,1,9,1.7,AF
+Slovenia,270,51,276,10.6,EU
+Guinea,9,0,2,0.2,AF
+Dominican Republic,193,147,9,6.2,
+Tonga,36,21,5,1.1,OC
+New Zealand,203,79,175,9.3,OC
+Cook Islands,0,254,74,5.9,OC
+Benin,34,4,13,1.1,AF
+Trinidad & Tobago,197,156,7,6.4,
+Gambia,8,0,1,2.4,AF
 Iran,0,0,0,0.0,AS
-Denmark,224,81,278,10.4,EU
-Mexico,238,68,5,5.5,
+Andorra,245,138,312,12.4,EU
+New Zealand,203,79,175,9.3,OC
+China,79,192,8,5.0,AS
+Fiji,77,35,1,2.0,OC
+Germany,346,117,175,11.3,EU
+Swaziland,90,2,2,4.7,AF
+Nicaragua,78,118,1,3.5,
 Bolivia,167,41,8,3.8,SA
-Brazil,245,145,16,7.2,SA
-Malawi,8,11,1,1.5,AF
+Vietnam,111,2,1,2.0,AS
+Netherlands,251,88,190,9.4,EU
+Vietnam,111,2,1,2.0,AS
+Iraq,9,3,0,0.2,AS
+Albania,89,132,54,4.9,EU
+Hungary,234,215,185,11.3,EU
+Sri Lanka,16,104,0,2.2,AS
+Dominican Republic,193,147,9,6.2,
+Suriname,128,178,7,5.6,SA
+Malta,149,100,120,6.6,EU
+Cameroon,147,1,4,5.8,AF
+St. Vincent & the Grenadines,120,221,11,6.3,
+Comoros,1,3,1,0.1,AF
+St. Kitts & Nevis,194,205,32,7.7,
+Guinea-Bissau,28,31,21,2.5,AF
+Costa Rica,149,87,11,4.4,
+St. Kitts & Nevis,194,205,32,7.7,
+Fiji,77,35,1,2.0,OC
+Romania,297,122,167,10.4,EU
+Switzerland,185,100,280,10.2,EU
+Georgia,52,100,149,5.4,EU
+Uruguay,115,35,220,6.6,SA
+Mali,5,1,1,0.6,AF
+Togo,36,2,19,1.3,AF
+Tajikistan,2,15,0,0.3,AS
+St. Kitts & Nevis,194,205,32,7.7,
+Luxembourg,236,133,271,11.4,EU
+Serbia,283,131,127,9.6,EU
+Bahrain,42,63,7,2.0,AS
+Austria,279,75,191,9.7,EU
+United Kingdom,219,126,195,10.4,EU
+Lesotho,82,29,0,2.8,AF
+Estonia,224,194,59,9.5,EU
+Lebanon,20,55,31,1.9,AS
+Tajikistan,2,15,0,0.3,AS
+Canada,240,122,100,8.2,
+Belize,263,114,8,6.8,
+Solomon Islands,56,11,1,1.2,OC
+Uganda,45,9,0,8.3,AF
+Afghanistan,0,0,0,0.0,AS
+Burundi,88,0,0,6.3,AF
+Malta,149,100,120,6.6,EU
+Palau,306,63,23,6.9,OC
+St. Vincent & the Grenadines,120,221,11,6.3,
+Iran,0,0,0,0.0,AS
+Samoa,105,18,24,2.6,OC
+Timor-Leste,1,1,4,0.1,AS
+Guinea,9,0,2,0.2,AF
+Honduras,69,98,2,3.0,
+Niger,3,2,1,0.1,AF
+Sierra Leone,25,3,2,6.7,AF
+Singapore,60,12,11,1.5,AS
+Honduras,69,98,2,3.0,
+Central African Republic,17,2,1,1.8,AF
+Malaysia,13,4,0,0.3,AS
+Lebanon,20,55,31,1.9,AS
+Turkey,51,22,7,1.4,AS
+Slovakia,196,293,116,11.4,EU
+Jamaica,82,97,9,3.4,
+Australia,261,72,212,10.4,OC
+Suriname,128,178,7,5.6,SA
+Japan,77,202,16,7.0,AS
+Zimbabwe,64,18,4,4.7,AF
+Slovenia,270,51,276,10.6,EU
+Madagascar,26,15,4,0.8,AF
+Guinea-Bissau,28,31,21,2.5,AF
+Laos,62,0,123,6.2,AS
+Fiji,77,35,1,2.0,OC
+Papua New Guinea,44,39,1,1.5,OC
+Somalia,0,0,0,0.0,AF
+Guyana,93,302,1,7.1,SA
+Dominican Republic,193,147,9,6.2,
+Sweden,152,60,186,7.2,EU
+South Korea,140,16,9,9.8,AS
+Philippines,71,186,1,4.6,AS
+Mexico,238,68,5,5.5,
+Chad,15,1,1,0.4,AF
